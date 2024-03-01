@@ -1,4 +1,5 @@
-> To add a new event, copy the the example bellow and fill the information that it is required:
+<!--
+> To add a new event, copy-paste the the example bellow, on the README, and fill the information that it is required:
 
 ```md
 - [<EVENT-NAME>](<LINK-OR-WEBSITE>)
@@ -16,4 +17,6 @@
 ---
 
 > NOTE: For the `Date` field, just put the start date for the event.
+
 > NOTE: Don't worry about the order of events; CI would automatically order all entries by date.
+-->
