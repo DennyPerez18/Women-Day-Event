@@ -1,5 +1,6 @@
-<!--
-> To add a new event, copy-paste the the example bellow, on the README, and fill the information that it is required:
+# Contributing
+
+To add a new event, create a pull request modifying the README with the template bellow, filled with your event information:
 
 ```md
 - [<EVENT-NAME>](<LINK-OR-WEBSITE>)
@@ -7,7 +8,7 @@
 > Description: <OPTIONAL>
 ```
 
-> Using `PyCon US 2024`, it would end up looking like:
+Using `PyCon US 2024`, it would end up looking like:
 
 ```md
 - [PyCon US 2024](https://us.pycon.org/2024)
@@ -19,4 +20,3 @@
 > NOTE: For the `Date` field, just put the start date for the event.
 
 > NOTE: Don't worry about the order of events; CI would automatically order all entries by date.
--->
