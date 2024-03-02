@@ -1,0 +1,23 @@
+name: format-events
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["README.md"]
+  workflow_dispatch:
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      - run: python "$GITHUB_WORKSPACE/format.py" "$GITHUB_WORKSPACE/README.md"
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(CI): format events by date."
