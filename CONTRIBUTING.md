@@ -4,7 +4,7 @@ To add a new event, create a pull request modifying the README with the template
 
 ```md
 - [<EVENT-NAME>](<LINK-OR-WEBSITE>)
-> Date: <DATE-ISO-FORMAT> || Languages: <COMMA-SEPARATED-VALUES> || Format: <In-Person|Online> || Location: <ADDRESS>
+> Date: <DATE-ISO-FORMAT> | Languages: <COMMA-SEPARATED-VALUES> | Format: <In-Person|Online> | Location: <ADDRESS>
 > Description: <OPTIONAL>
 ```
 
@@ -12,7 +12,7 @@ Using `PyCon US 2024`, it would end up looking like:
 
 ```md
 - [PyCon US 2024](https://us.pycon.org/2024)
-> Date: 2024-05-15 || Languages: English || Format: In-Person, Online || Location: Pittsburgh, Pennsylvalnia
+> Date: 2024-05-15 | Languages: English | Format: In-Person, Online | Location: Pittsburgh, Pennsylvalnia
 ```
 
 ---
