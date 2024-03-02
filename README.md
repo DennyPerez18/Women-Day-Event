@@ -7,3 +7,12 @@ This repository serves as a comprehensive collection of events commemorating Int
 If you are interested in adding an event, kindly read our [contribution guidelines](https://github.com/DennyPerez18/Women-March/blob/main/CONTRIBUTING.md).
 
 ## Events
+
+- [PyLadies Südwest](https://www.meetup.com/pyladies-suedwest/)
+> Date: 2024-03-08 | Languages: English | Format: In-Person | Location: Heidelberg, BW
+
+- [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
+> Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
+
+- [Impact the Future: International Women's Day NYC](https://lu.ma/ImpactTheFutureNYC2024)
+> Date: 2024-03-07 | Languages: English | Format: In-Person | Location: New York, NY
