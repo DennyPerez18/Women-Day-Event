@@ -15,8 +15,9 @@ If you are interested in adding an event, kindly read our [contribution guidelin
 > Date: 2024-03-08 | Languages: English | Format: In-Person | Location: Heidelberg, BW
 
 - [Empoderando a las Mujeres en Tecnología - 2024](https://www.galileo.edu/page/iwdgt/)
-> Date: 2024-03-08 & 2024-03-09| Languages: Español | Format: In-Person | Location: 7a ave calle Dr. Eduardo Suger Cofiño zona 10, campus central Universidad Galileo
-> Description: El 8 de marzo conmemoramos el Día Internacional de la Mujer (IWD), con actividades globales. En Guatemala, nos enfocamos en empoderar a mujeres en tecnología, dando visibilidad a sus esfuerzos, fortaleciendo la comunidad y ofreciendo recursos para el crecimiento personal y profesional.
+> Date: 2024-03-08 & 2024-03-09 | Languages: Spanish | Format: In-Person | Location: 7a ave calle Dr. Eduardo Suger Cofiño zona 10, campus central Universidad Galileo
+
+El 8 de marzo conmemoramos el Día Internacional de la Mujer (IWD), con actividades globales. En Guatemala, nos enfocamos en empoderar a mujeres en tecnología, dando visibilidad a sus esfuerzos, fortaleciendo la comunidad y ofreciendo recursos para el crecimiento personal y profesional.
 
 - [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
 > Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA

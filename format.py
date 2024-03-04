@@ -23,7 +23,7 @@ def main(args: list[str]) -> int:
     with open(args[1], "r+", encoding="utf-8") as readme:
         header, events_str = readme.read().split(EVENTS_HEADING, 1)
         # FIXME: This breaks if someone forgets to put a new line between events...
-        events = [event.strip() for event in events_str.split("\n\n") if event]
+        events = [event.strip() for event in events_str.split("\n\n-") if event]
 
         if len(events) == 1:
             return 0
@@ -42,7 +42,7 @@ def main(args: list[str]) -> int:
         readme.write(EVENTS_HEADING)
 
         for event in sorted(events, key=parse_date):
-            readme.write(f"\n\n{event}")
+            readme.write(f"\n\n-{event}")
 
     return 0
 
