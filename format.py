@@ -42,7 +42,7 @@ def main(args: list[str]) -> int:
         readme.write(EVENTS_HEADING)
 
         for event in sorted(events, key=parse_date):
-            readme.write(f"\n\n-{event}")
+            readme.write(f"\n\n- {event}")
 
     return 0
 
