@@ -21,3 +21,19 @@ El 8 de marzo conmemoramos el Día Internacional de la Mujer (IWD), con activida
 
 - [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
 > Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
+
+- [Introduction to Django](https://twitter.com/pyladieskla/status/1764539270197280808)
+> Date: 2024-03-09 | Languages: English | Format: In-Person | Location: Bukoto, Kampala, Uganda
+
+- [Meetup: Sharon Camacho & Edsel Manuel Lucho](https://twitter.com/pyladiesmed/status/1764832308320727114)
+> Date: 2024-03-05 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
+
+- [IWD 2024](https://www.eventbrite.com/e/iwd-2024-tickets-825810721097)
+> Date: 2024-03-08 | Languages: English | Format: In-Person | Location: Pittsburgh, USA
+
+Join us for an incredible celebration of International Women's Day at The Rebel Room in Pittsburgh, PA, USA. This in-person event is all about empowering women and recognizing their achievements. Get ready for an inspiring day filled with thought-provoking discussions, engaging workshops, and networking opportunities. Whether you're a trailblazer, an advocate, or simply passionate about gender equality, this event is for you.
+
+- [WTM Medellín - IWD 2024](https://wtmmedellin.com)
+> Date: 2024-04-13 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
+
+El Día Internacional de la Mujer, que se celebra anualmente en marzo, es un momento reconocido mundialmente para celebrar los logros de las mujeres y crear conciencia sobre las cuestiones que afectan la igualdad de género. Este Día Internacional de la Mujer, no solo honramos las contribuciones tecnológicas de las mujeres, estamos dando forma activamente a lo que viene a continuación.
