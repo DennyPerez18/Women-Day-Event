@@ -8,6 +8,9 @@ If you are interested in adding an event, kindly read our [contribution guidelin
 
 ## Events
 
+- [Meetup: Sharon Camacho & Edsel Manuel Lucho](https://twitter.com/pyladiesmed/status/1764832308320727114)
+> Date: 2024-03-05 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
+
 - [Impact the Future: International Women's Day NYC](https://lu.ma/ImpactTheFutureNYC2024)
 > Date: 2024-03-07 | Languages: English | Format: In-Person | Location: New York, NY
 
@@ -19,19 +22,16 @@ If you are interested in adding an event, kindly read our [contribution guidelin
 
 El 8 de marzo conmemoramos el Día Internacional de la Mujer (IWD), con actividades globales. En Guatemala, nos enfocamos en empoderar a mujeres en tecnología, dando visibilidad a sus esfuerzos, fortaleciendo la comunidad y ofreciendo recursos para el crecimiento personal y profesional.
 
-- [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
-> Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
-
-- [Introduction to Django](https://twitter.com/pyladieskla/status/1764539270197280808)
-> Date: 2024-03-09 | Languages: English | Format: In-Person | Location: Bukoto, Kampala, Uganda
-
-- [Meetup: Sharon Camacho & Edsel Manuel Lucho](https://twitter.com/pyladiesmed/status/1764832308320727114)
-> Date: 2024-03-05 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
-
 - [IWD 2024](https://www.eventbrite.com/e/iwd-2024-tickets-825810721097)
 > Date: 2024-03-08 | Languages: English | Format: In-Person | Location: Pittsburgh, USA
 
 Join us for an incredible celebration of International Women's Day at The Rebel Room in Pittsburgh, PA, USA. This in-person event is all about empowering women and recognizing their achievements. Get ready for an inspiring day filled with thought-provoking discussions, engaging workshops, and networking opportunities. Whether you're a trailblazer, an advocate, or simply passionate about gender equality, this event is for you.
+
+- [Introduction to Django](https://twitter.com/pyladieskla/status/1764539270197280808)
+> Date: 2024-03-09 | Languages: English | Format: In-Person | Location: Bukoto, Kampala, Uganda
+
+- [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
+> Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
 
 - [WTM Medellín - IWD 2024](https://wtmmedellin.com)
 > Date: 2024-04-13 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
