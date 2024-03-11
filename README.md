@@ -30,6 +30,11 @@ Join us for an incredible celebration of International Women's Day at The Rebel 
 - [Introduction to Django](https://twitter.com/pyladieskla/status/1764539270197280808)
 > Date: 2024-03-09 | Languages: English | Format: In-Person | Location: Bukoto, Kampala, Uganda
 
+- [Impact the Future: Women Techmakers using GitHub](https://www.meetup.com/githublatam/events/299568786)
+> Date: 2024-03-12 | Languages: Spanish | Format: Online
+
+Únete a nosotros en la conmemoración del Día Internacional de la Mujer en nuestro evento virtual "Women Techmakers using GitHub", en colaboración con nuestra querida comunidad de Women Techmaker.
+
 - [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
 > Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
 
@@ -37,11 +42,6 @@ Join us for an incredible celebration of International Women's Day at The Rebel 
 > Date: 2024-04-13 | Languages: Spanish | Format: In-Person | Location: Medellín, Colombia
 
 El Día Internacional de la Mujer, que se celebra anualmente en marzo, es un momento reconocido mundialmente para celebrar los logros de las mujeres y crear conciencia sobre las cuestiones que afectan la igualdad de género. Este Día Internacional de la Mujer, no solo honramos las contribuciones tecnológicas de las mujeres, estamos dando forma activamente a lo que viene a continuación.
-
-- [Impact the Future: Women Techmakers using GitHub](https://www.meetup.com/githublatam/events/299568786)
-> Date: 2024-03-12 | Languages: Spanish | Format: Online
-
-Únete a nosotros en la conmemoración del Día Internacional de la Mujer en nuestro evento virtual "Women Techmakers using GitHub", en colaboración con nuestra querida comunidad de Women Techmaker.
 
 - [WTM MADRID 2024](https://wtmgdgmadrid.github.io/)
 > Date: 2024-04-27 | Languages: Spanish | Format: In-Person | Location: Madrid, Spain
