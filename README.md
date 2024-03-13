@@ -35,6 +35,9 @@ Join us for an incredible celebration of International Women's Day at The Rebel 
 
 Únete a nosotros en la conmemoración del Día Internacional de la Mujer en nuestro evento virtual "Women Techmakers using GitHub", en colaboración con nuestra querida comunidad de Women Techmaker.
 
+- [GitHub Open Source CDMX: Mujeres que inspiran](https://www.meetup.com/githublatam/events/299308299/)
+> Date: 2024-03-14 | Languages: Spanish | Format: In-Person | Location: CDMX, Mexico
+
 - [International Women’s Day 2024 celebration!](https://www.meetup.com/bellevue-gdg/events/298534986/)
 > Date: 2024-03-27 | Languages: English | Format: In-Person | Location: Bellevue, WA
 
